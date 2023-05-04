@@ -5,6 +5,6 @@
   </PropertyGroup>
   <PropertyGroup>
     <ActiveDebugProfile>IIS Express</ActiveDebugProfile>
-    <NameOfLastUsedPublishProfile>C:\Users\crazy\OneDrive\Workspace-VS\MyCoreApp\MyCoreApp\Properties\PublishProfiles\MyCoreApp20230414130814 - Web Deploy1.pubxml</NameOfLastUsedPublishProfile>
+    <NameOfLastUsedPublishProfile>C:\Users\crazy\OneDrive\Workspace-VS\MyCoreApp\MyCoreApp\Properties\PublishProfiles\webappwDB - Web Deploy.pubxml</NameOfLastUsedPublishProfile>
   </PropertyGroup>
 </Project>

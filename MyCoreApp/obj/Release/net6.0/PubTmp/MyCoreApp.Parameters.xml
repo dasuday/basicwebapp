@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <parameters>
-  <parameter name="IIS Web Application Name" description="" value="MyCoreApp20230414130814" tags="IisApp">
-    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\crazy\\OneDrive\\Workspace-VS\\MyCoreApp_Jayson\\MyCoreApp\\obj\\Release\\net6\.0\\PubTmp\\Out\\$" />
+  <parameter name="IIS Web Application Name" description="" value="webappwDB" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\crazy\\OneDrive\\Workspace-VS\\MyCoreApp\\MyCoreApp\\obj\\Release\\net6\.0\\PubTmp\\Out\\$" />
   </parameter>
 </parameters>
